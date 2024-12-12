@@ -1,0 +1,57 @@
+# Directorios y archivos de compilación
+/build/
+/.idea/
+/.gradle/
+/local.properties
+.DS_Store
+
+# Archivos generados por el sistema operativo
+*.iml
+*.log
+*.swp
+*.tmp
+*.class
+
+# Archivos de caché de Android Studio
+.cache/
+captures/
+.externalNativeBuild/
+
+# Archivos de configuración local
+.gradle/
+/local.properties
+
+# Configuración de Kotlin/Java
+*.kotlin_metadata
+*.java-version
+*.class
+
+# Archivos de registro y de depuración
+*.log
+*.pid
+*.seed
+*.key
+
+# Archivos de Android específicos
+*.apk
+*.ap_
+*.dex
+*.so
+*.jar
+
+# Configuración específica del IDE
+*.vscode
+*.settings/
+*.cxx/
+*.idea/workspace.xml
+*.idea/libraries
+*.idea/modules.xml
+
+# Claves y archivos sensibles
+**/keystore.*
+**/google-services.json
+**/debug.keystore
+
+# Archivos de configuración específicos del sistema operativo
+Thumbs.db
+*.DS_Store
